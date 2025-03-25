@@ -27,40 +27,61 @@
 
 ## Portfolio:
 
- - 🕒 Com o tempo irei adicionando meus projetos 
+ - ☣️ [Desafio Ransomware em Python (Python Ransomware Challenge) ](https://github.com/AgainSantos/cibersecurity-desafio-ransomware)
 
+ - 🎣 [Desafio Phishing em Python (Python Phishing Challenge) ](https://github.com/AgainSantos/cibersecurity-desafio-phishing)
+
+- 🕒 Com o tempo, irei adicionando mais projetos. (Over time, I will be adding more projects.)
+
+  ##
+  
 <p align="left">
   <img align="center" src="https://i.pinimg.com/originals/2e/7f/2f/2e7f2ff362787eded5cc761c910b9aa1.gif" alt="Lain">
 </p>
 
 ## 🔥 Minhas competências Técnicas
 
- <div style="flex-basis: 48%;">
-   <h3> Linguagens de programação </h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+ <!-- Seção: Linguagens de programação -->
+<div style="flex-basis: 48%;">
+  <h3>Linguagens de programação</h3>
+  <a href="https://www.w3.org/html/" target="https://www.w3schools.com/html/html_intro.asp">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <a href="https://www.w3.org/Style/CSS/" target="https://www.w3schools.com/css/default.asp">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <a href="https://www.python.org" target="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <a href="https://www.java.com" target="https://www.java.com/en/download/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  </a>
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <a href="https://www.mysql.com/" target="https://www.mysql.com/downloads/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  </a>
 </div>
 
 ###
 
- <div style="flex-basis: 48%;">
-   <h3> Ferramentas & Frameworks </h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+<!-- Seção: Ferramentas & Frameworks -->
+<div style="flex-basis: 48%;">
+  <h3>Ferramentas & Frameworks</h3>
+  <a href="https://code.visualstudio.com/" target="https://code.visualstudio.com/download">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <a href="https://www.jetbrains.com/idea/" target="https://www.jetbrains.com/pt-br/idea/download/?section=windows">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <a href="https://git-scm.com/" target="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  </a>
 </div>
+
 
 ###
