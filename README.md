@@ -31,6 +31,8 @@
 
  - 🎣 [Desafio Phishing em Python (Python Phishing Challenge) ](https://github.com/AgainSantos/cibersecurity-desafio-phishing)
 
+- 🚗 [Loja de automóveis feito em grupo com Angular (Automobile store developed as a group project with Angular) ](https://github.com/CaioTBarbieri/Projetta)
+
 - 🕒 Com o tempo, irei adicionando mais projetos. (Over time, I will be adding more projects.)
 
   ##
