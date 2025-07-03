@@ -65,6 +65,10 @@
   <a href="https://www.mysql.com/" target="https://www.mysql.com/downloads/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   </a>
+  <img width="12" />
+  <a href="https://www.postgresql.org/" target="https://www.postgresql.org/download/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  </a>
 </div>
 
 ###
