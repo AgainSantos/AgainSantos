@@ -87,6 +87,10 @@
   <a href="https://git-scm.com/" target="https://github.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   </a>
+   <img width="12" />
+  <a href="https://angular.dev/" target="https://angular.dev/installation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo" />
+  </a>
 </div>
 
 
