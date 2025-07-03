@@ -38,7 +38,7 @@
   ##
   
 <p align="left">
-  <img align="center" src="https://i.pinimg.com/originals/e0/1a/35/e01a354a45f835fba2448f65a5c7a7f5.gif" alt="Poste">
+  <img align="center" src="https://i.pinimg.com/originals/97/41/f0/9741f0c6151635b29300e6f7656e1644.gif" alt="arte">
 </p>
 
 ## 🔥 Minhas competências Técnicas
