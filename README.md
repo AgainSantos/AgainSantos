@@ -8,13 +8,13 @@
 
    ー 🎐 Atualmente estou cursando Análise e Desenvolvimento de sistemas na Fatec do Ipiranga.
    
-   ー 🎯 Por agora estou buscando a minha primeira oportunidade de emprego. E meu objetivo é me tornar um grande desenvolvedor de sistemas!
+   ー 🎯 Por agora meu objetivo é me tornar um grande desenvolvedor de sistemas!
 </p>
 
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 19 anos e atualmente estudo tanto na faculdade quanto de forma autônoma. Possuo um nível pré-avançado em inglês e experiência considerável com linguagens de programação, entre outras habilidades. Durante meu período na ETEC, desenvolvi importantes soft skills, o que acabou me permitindo aprimorar minha comunicação e interagir de maneira mais aberta com as pessoas ao meu redor.
+  - 💬 Tenho 20 anos e atualmente estudo tanto na faculdade quanto de forma autônoma. Possuo um nível pré-avançado em inglês e experiência considerável com linguagens de programação, entre outras habilidades. Durante meu período na ETEC, desenvolvi importantes soft skills, o que acabou me permitindo aprimorar minha comunicação e interagir de maneira mais aberta com as pessoas ao meu redor.
 
   - 🎮 Meus hobbies, quando tenho tempo livre, incluem atividades voltadas ao lazer, como jogar videogames, ler mangás ou ir à academia para exercitar os músculos.
 </details>
