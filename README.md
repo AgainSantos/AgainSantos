@@ -1,97 +1,68 @@
-<h1 align="center">Hello World 🌎</h1>
+<h1 align="center">Olá, eu sou o Samuel 👋</h1>
 
-###
+<p align="center">
+<b>Desenvolvedor Back-end Java em formação</b> · Spring Boot · SQL · Angular<br>
+Estudante de Análise e Desenvolvimento de Sistemas na <b>FATEC Ipiranga</b> · Buscando estágio ou vaga júnior
+</p>
 
-<p align="left">
-  
- **『 Olá 👋, eu sou Samuel! Um estudante apaixonado por análise e desenvolvimento de sistemas 』**
+<p align="center">
+<a href="https://www.linkedin.com/in/samucca4s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:Samuel4Silva2Santos@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
-   ー 🎐 Atualmente estou cursando Análise e Desenvolvimento de sistemas na Fatec do Ipiranga.
-   
-   ー 🎯 Por agora meu objetivo é me tornar um grande desenvolvedor de sistemas!
+## 🚀 Projeto em destaque
+
+### 🏥 Sistema de Gestão — UBS Paulo Freire
+Projeto em equipe da FATEC: sistema para uma Unidade Básica de Saúde, com **API REST em Spring Boot**, **front-end em Angular** e **app Android**.
+
+**Minhas contribuições:**
+- 📅 **Módulo de agendamento de consultas**, com 20+ endpoints: criar, confirmar, cancelar, reagendar, marcar falta e verificar a disponibilidade do médico.
+- 🩺 **Cadastro de médicos** em arquitetura em camadas (controller → service → repository), com **validação de CRM** por regex e UF.
+- ♻️ **Refatoração com herança JPA** entre Usuário e Médico, eliminando código duplicado em 17 arquivos.
+- 📱 **Renovação de sessão no app Android**: interceptor OkHttp que renova o cookie e sincroniza as permissões do usuário.
+- 🔎 Tela de agendamentos em Angular com **busca, filtros e paginação**.
+
+👉 [Repositório](https://github.com/mamazzei-edu/ubs-repo) · [Meus commits (branch devel_producao)](https://github.com/mamazzei-edu/ubs-repo/commits/devel_producao?author=AgainSantos)
+
+## 📂 Outros projetos
+
+- 🚗 [Projetta](https://github.com/CaioTBarbieri/Projetta): loja de automóveis feita em grupo com Angular
+- ⭕ [Jogo da Velha](https://github.com/AgainSantos/JogoDaVelha) em Java
+- 🔐 Desafios de cibersegurança em Python (bootcamp DIO): [Ransomware](https://github.com/AgainSantos/cibersecurity-desafio-ransomware) · [Phishing](https://github.com/AgainSantos/cibersecurity-desafio-phishing)
+- 🛠️ **Em construção:** API back-end com Spring Boot + PostgreSQL
+
+## 🔥 Tecnologias
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" title="Java" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring Boot" title="Spring Boot" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="36" alt="Angular" title="Angular" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="36" alt="Android" title="Android" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="36" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
 </p>
 
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+<summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 20 anos e atualmente estudo tanto na faculdade quanto de forma autônoma. Possuo um nível pré-avançado em inglês e experiência considerável com linguagens de programação, entre outras habilidades. Durante meu período na ETEC, desenvolvi importantes soft skills, o que acabou me permitindo aprimorar minha comunicação e interagir de maneira mais aberta com as pessoas ao meu redor.
-
-  - 🎮 Meus hobbies, quando tenho tempo livre, incluem atividades voltadas ao lazer, como jogar videogames, ler mangás ou ir à academia para exercitar os músculos.
+- 🌎 Inglês intermediário-avançado.
+- 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC, onde também desenvolvi comunicação e trabalho em equipe.
+- 🎮 Nas horas livres: videogames, mangás e academia.
 </details>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgainSantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=false&custom_title=Minhas%20estat%C3%ADsticas%20do%20GITHUB" height="200" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=AgainSantos&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&locale=pt-br&custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub" height="180" alt="Estatísticas do GitHub" />
 </div>
-
-## Portfolio:
-
- - ☣️ [Desafio Ransomware em Python (Python Ransomware Challenge) ](https://github.com/AgainSantos/cibersecurity-desafio-ransomware)
-
- - 🎣 [Desafio Phishing em Python (Python Phishing Challenge) ](https://github.com/AgainSantos/cibersecurity-desafio-phishing)
-
-- 🚗 [Loja de automóveis feito em grupo com Angular (Automobile store developed as a group project with Angular) ](https://github.com/CaioTBarbieri/Projetta)
-
-- 🕒 Com o tempo, irei adicionando mais projetos. (Over time, I will be adding more projects.)
-
-  ##
-  
-<p align="left">
-  <img align="center" src="https://i.pinimg.com/originals/97/41/f0/9741f0c6151635b29300e6f7656e1644.gif" alt="arte" style="max-height: 80%;">
-</p>
-
-## 🔥 Minhas competências Técnicas
-
- <!-- Seção: Linguagens de programação -->
-<div style="flex-basis: 48%;">
-  <h3>Linguagens de programação</h3>
-  <a href="https://www.w3.org/html/" target="https://www.w3schools.com/html/html_intro.asp">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.w3.org/Style/CSS/" target="https://www.w3schools.com/css/default.asp">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.python.org" target="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.java.com" target="https://www.java.com/en/download/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.mysql.com/" target="https://www.mysql.com/downloads/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.postgresql.org/" target="https://www.postgresql.org/download/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  </a>
-</div>
-
-###
-
-<!-- Seção: Ferramentas & Frameworks -->
-<div style="flex-basis: 48%;">
-  <h3>Ferramentas & Frameworks</h3>
-  <a href="https://code.visualstudio.com/" target="https://code.visualstudio.com/download">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.jetbrains.com/idea/" target="https://www.jetbrains.com/pt-br/idea/download/?section=windows">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
-  </a>
-  <img width="12" />
-  <a href="https://git-scm.com/" target="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  </a>
-   <img width="12" />
-  <a href="https://angular.dev/" target="https://angular.dev/installation">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo" />
-  </a>
-</div>
-
-
-###
