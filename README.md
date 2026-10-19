@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Samuel 👋</h1>
 
 <p align="center">
-<b>Desenvolvedor Back-end Java em formação</b> · Spring Boot · SQL · Angular<br>
-Estudante de Análise e Desenvolvimento de Sistemas na <b>FATEC Ipiranga</b> · Buscando estágio ou vaga júnior
+<b>Desenvolvedor Back-end Java Júnior</b> · Spring Boot · SQL · Angular<br>
+Formando em Análise e Desenvolvimento de Sistemas pela <b>FATEC Ipiranga</b> (dez/2026) · Disponível para vagas júnior
 </p>
 
 <p align="center">
