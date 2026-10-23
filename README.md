@@ -28,6 +28,7 @@ Projeto em equipe da FATEC: sistema para uma Unidade Básica de Saúde, com **AP
 
 - 🚗 [Projetta](https://github.com/CaioTBarbieri/Projetta): loja de automóveis feita em grupo com Angular
 - ⭕ [Jogo da Velha](https://github.com/AgainSantos/JogoDaVelha) em Java
+- 🃏 [Guia de Persona 5 Royal](https://github.com/AgainSantos/Persona-5-Guide) com tradução em Inglês
 - 🔐 Desafios de cibersegurança em Python (bootcamp DIO): [Ransomware](https://github.com/AgainSantos/cibersecurity-desafio-ransomware) · [Phishing](https://github.com/AgainSantos/cibersecurity-desafio-phishing)
 - 🛠️ **Em construção:** API back-end com Spring Boot + PostgreSQL
 
